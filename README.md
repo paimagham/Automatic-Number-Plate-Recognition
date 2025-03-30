@@ -9,18 +9,6 @@ This project implements an **Automatic Number Plate Recognition (ANPR)** system 
 2. Install required libraries:
    ```bash
    pip install opencv-python imutils pytesseract
-
-# Automatic Number Plate Recognition (ANPR)
-
-## Description
-This project implements an **Automatic Number Plate Recognition (ANPR)** system using OpenCV and Tesseract OCR. It processes car images to detect, segment, and extract number plates.
-
-## Installation
-
-1. Install **Python** (version 3.6+ recommended).
-2. Install required libraries:
-   ```bash
-   pip install opencv-python imutils pytesseract
    ```
 3. Download and install **Tesseract OCR**:
    - [Tesseract Download Link](https://github.com/UB-Mannheim/tesseract/wiki)
